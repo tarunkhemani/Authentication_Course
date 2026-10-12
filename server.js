@@ -1,5 +1,5 @@
-import app from "./src/app";
-import connectToDB from "./src/config/database";
+import app from "./src/app.js";
+import connectToDB from "./src/config/database.js";
 
 
 
